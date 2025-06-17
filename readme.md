@@ -1,1 +1,2 @@
-new featured branch created 
+line 1
+line2
